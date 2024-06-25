@@ -1,1 +1,1 @@
-## Welcome to the HENRY Github Organization 👋
+## Welcome to the Henry Social Github Organization 👋
